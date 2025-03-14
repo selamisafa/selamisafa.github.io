@@ -54,7 +54,7 @@ params:
           buttons:
             - name: Games
               url: games/
-              weight: 5 
+              weight: 1 
             - name: Work
               url: work/
               weight: 2
