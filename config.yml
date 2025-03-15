@@ -12,7 +12,7 @@ menu:
     main:
         - name: Games
           url: games/
-          weight: 5 
+          weight: 1 
         - name: Work
           url: work/
           weight: 2
@@ -59,8 +59,11 @@ params:
               url: work/
               weight: 2
             - name: Other Projects
-              url: other/
+              url: other-projects/
               weight: 3
+            - name: Tags
+              url: tags/
+              weight: 4
 
     socialIcons:
         - name: CV
