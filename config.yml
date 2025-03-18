@@ -61,18 +61,15 @@ params:
             - name: Other Projects
               url: other-projects/
               weight: 3
-            - name: Tags
-              url: tags/
-              weight: 4
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
           url: mailto:selamisafa@gmail.com
-        - name: itchio
+        - name: itchio1
           url: https://selamisafabalik.itch.io/
-        - name: itchio
+        - name: itchio2
           url: https://piskafir.itch.io/        
         - name: GitHub
           url: https://github.com/selamisafa
