@@ -16,9 +16,6 @@ menu:
         - name: Work
           url: work/
           weight: 2
-        - name: Other Projects
-          url: other/
-          weight: 3
 
 params:
     description: "I am an indie Game Dev from Turkey. My games are mostly experimental and I promise all of them are on hold :)"
@@ -36,7 +33,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["games","work","other"]
+    MainSections: ["games","work"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -58,9 +55,6 @@ params:
             - name: Work
               url: work/
               weight: 2
-            - name: Other Projects
-              url: other-projects/
-              weight: 3
 
     socialIcons:
         - name: CV
