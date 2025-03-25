@@ -35,13 +35,7 @@
     <loc>https://selamisafa.github.io/tags/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://selamisafa.github.io/work/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://selamisafa.github.io/papers/paper3/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://selamisafa.github.io/work/paper3/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://selamisafa.github.io/work_old/paper3/</loc>
@@ -95,9 +89,6 @@
     <loc>https://selamisafa.github.io/papers/paper1/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://selamisafa.github.io/work/paper1/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://selamisafa.github.io/work_old/paper1/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -114,9 +105,6 @@
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://selamisafa.github.io/papers/paper2/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://selamisafa.github.io/work/paper2/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://selamisafa.github.io/work_old/paper2/</loc>
@@ -160,5 +148,7 @@
     <loc>https://selamisafa.github.io/games/</loc>
   </url><url>
     <loc>https://selamisafa.github.io/games_old/</loc>
+  </url><url>
+    <loc>https://selamisafa.github.io/work/</loc>
   </url>
 </urlset>

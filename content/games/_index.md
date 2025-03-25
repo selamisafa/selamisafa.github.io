@@ -13,63 +13,82 @@ I have developed/prototyped a lot of games and categorized them as on two differ
 |Includes a tiny bit of satire|Includes an extraordinary amount of satire|
 |Should be taken seriously (pls)|Shouldn't be taken seriously|
 
----
-
 ## **Featured Games**  
 
-### **Feelend VR**  
-[![Feelend VR](https://img.itch.zone/aW1nLzE2ODg0MTU2LmpwZw==/315x250%23c/wvUl2v.jpg)](https://piskafir.itch.io/feelend-vr)  
-*A VR experience exploring emotional landscapes.*  
-👉 [Play on Itch.io](https://piskafir.itch.io/feelend-vr)  
-
----
-
-### **Two People Simulator**  
-[![Two People Simulator](https://img.itch.zone/aW1nLzkzMzE5MjkucG5n/315x250%23c/TSLhjw.png)](https://selamisafabalik.itch.io/two-people-simulator)  
-*A social interaction experiment.*  
-👉 [Play on Itch.io](https://selamisafabalik.itch.io/two-people-simulator)  
-
----
-
-### **Anger and Agony**  
-[![Anger and Agony](https://img.itch.zone/aW1nLzQyMjU0NjEucG5n/315x250%23c/ani8na.png)](https://piskafir.itch.io/anger-and-agony)  
-*An expressive, raw exploration of emotion.*  
-👉 [Play on Itch.io](https://piskafir.itch.io/anger-and-agony)  
-
----
-
-### **Play On MIDI**  
-[![Play On MIDI](https://img.itch.zone/aW1nLzE5OTAzNTQ0LmpwZw==/315x250%23c/dPzk17.jpg)](https://selamisafabalik.itch.io/play-on-midi)  
-*Experimental music interaction with MIDI support.*  
-👉 [Play on Itch.io](https://selamisafabalik.itch.io/play-on-midi)  
-
----
-
-### **Cube Carrier**  
-[![Cube Carrier](https://img.itch.zone/aW1nLzQzMTkxOTcucG5n/315x250%23c/ACsdkT.png)](https://selamisafabalik.itch.io/cube-carrier)  
-*A puzzle-platformer with cube transportation mechanics.*  
-👉 [Play on Itch.io](https://selamisafabalik.itch.io/cube-carrier)  
-
----
-
-### **OyunIstanbul Test**  
-[![OyunIstanbul Test](https://img.itch.zone/aW1nLzY4Mzc1MTgucG5n/315x250%23c/cuCX19.png)](https://selamisafabalik.itch.io/oyunistanbul-test)  
-*An experimental urban-based game test.*  
-👉 [Play on Itch.io](https://selamisafabalik.itch.io/oyunistanbul-test)  
-
----
-
-### **Chester Bennington Memorial - 2021**  
-[![Chester Bennington Memorial - 2021](https://img.itch.zone/aW1nLzY1NTU5NjQucG5n/315x250%23c/RbqN%2Bo.png)](https://piskafir.itch.io/chester-bennington-memorial-2021)  
-*A tribute experience for the legendary musician.*  
-👉 [Play on Itch.io](https://piskafir.itch.io/chester-bennington-memorial-2021)  
-
----
-
-### **How I Lost My Virginity?**  
-[![How I Lost My Virginity?](https://img.itch.zone/aW1nLzIxMzQxMDQucG5n/315x250%23c/TiN8Ge.png)](https://piskafir.itch.io/how-i-lost-my-virginity)  
-*A humorous and satirical take on personal experiences.*  
-👉 [Play on Itch.io](https://piskafir.itch.io/how-i-lost-my-virginity)  
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://piskafir.itch.io/feelend-vr">
+        <img src="https://img.itch.zone/aW1nLzE2ODg0MTU2LmpwZw==/315x250%23c/wvUl2v.jpg" alt="Feelend VR"><br>
+        <strong>Feelend VR</strong>
+      </a>
+      <br>*A VR experience exploring emotional landscapes.*  
+      <br>👉 <a href="https://piskafir.itch.io/feelend-vr">Play on Itch.io</a>
+    </td>
+    <td align="center">
+      <a href="https://selamisafabalik.itch.io/two-people-simulator">
+        <img src="https://img.itch.zone/aW1nLzkzMzE5MjkucG5n/315x250%23c/TSLhjw.png" alt="Two People Simulator"><br>
+        <strong>Two People Simulator</strong>
+      </a>
+      <br>*A social interaction experiment.*  
+      <br>👉 <a href="https://selamisafabalik.itch.io/two-people-simulator">Play on Itch.io</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://piskafir.itch.io/anger-and-agony">
+        <img src="https://img.itch.zone/aW1nLzQyMjU0NjEucG5n/315x250%23c/ani8na.png" alt="Anger and Agony"><br>
+        <strong>Anger and Agony</strong>
+      </a>
+      <br>*An expressive, raw exploration of emotion.*  
+      <br>👉 <a href="https://piskafir.itch.io/anger-and-agony">Play on Itch.io</a>
+    </td>
+    <td align="center">
+      <a href="https://selamisafabalik.itch.io/play-on-midi">
+        <img src="https://img.itch.zone/aW1nLzE5OTAzNTQ0LmpwZw==/315x250%23c/dPzk17.jpg" alt="Play On MIDI"><br>
+        <strong>Play On MIDI</strong>
+      </a>
+      <br>*Experimental music interaction with MIDI support.*  
+      <br>👉 <a href="https://selamisafabalik.itch.io/play-on-midi">Play on Itch.io</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://selamisafabalik.itch.io/cube-carrier">
+        <img src="https://img.itch.zone/aW1nLzQzMTkxOTcucG5n/315x250%23c/ACsdkT.png" alt="Cube Carrier"><br>
+        <strong>Cube Carrier</strong>
+      </a>
+      <br>*A puzzle-platformer with cube transportation mechanics.*  
+      <br>👉 <a href="https://selamisafabalik.itch.io/cube-carrier">Play on Itch.io</a>
+    </td>
+    <td align="center">
+      <a href="https://selamisafabalik.itch.io/oyunistanbul-test">
+        <img src="https://img.itch.zone/aW1nLzY4Mzc1MTgucG5n/315x250%23c/cuCX19.png" alt="OyunIstanbul Test"><br>
+        <strong>OyunIstanbul Test</strong>
+      </a>
+      <br>*An experimental urban-based game test.*  
+      <br>👉 <a href="https://selamisafabalik.itch.io/oyunistanbul-test">Play on Itch.io</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://piskafir.itch.io/chester-bennington-memorial-2021">
+        <img src="https://img.itch.zone/aW1nLzY1NTU5NjQucG5n/315x250%23c/RbqN%2Bo.png" alt="Chester Bennington Memorial - 2021"><br>
+        <strong>Chester Bennington Memorial - 2021</strong>
+      </a>
+      <br>*A tribute experience for the legendary musician.*  
+      <br>👉 <a href="https://piskafir.itch.io/chester-bennington-memorial-2021">Play on Itch.io</a>
+    </td>
+    <td align="center">
+      <a href="https://piskafir.itch.io/how-i-lost-my-virginity">
+        <img src="https://img.itch.zone/aW1nLzIxMzQxMDQucG5n/315x250%23c/TiN8Ge.png" alt="How I Lost My Virginity?"><br>
+        <strong>How I Lost My Virginity?</strong>
+      </a>
+      <br>*A humorous and satirical take on personal experiences.*  
+      <br>👉 <a href="https://piskafir.itch.io/how-i-lost-my-virginity">Play on Itch.io</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
