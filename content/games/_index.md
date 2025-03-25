@@ -13,30 +13,71 @@ I have developed/prototyped a lot of games and categorized them as on two differ
 |Includes a tiny bit of satire|Includes an extraordinary amount of satire|
 |Should be taken seriously (pls)|Shouldn't be taken seriously|
 
-<!--
-## Showcasing My Favorite Projects
-**Professional Projects:**
-1.  **Project A**: A serious game developed for [Company Name], focusing on [brief description].
-2.  **Project B**: An educational game created for [Institution Name], designed to [brief description].
+---
 
-**Personal Projects:**
-1.  **Project X**: A satirical game exploring [brief description], made purely for fun.
-2.  **Project Y**: An experimental game that [brief description], embodying a high level of satire.
--->
-<iframe frameborder="0" src="https://itch.io/embed/2826084?linkback=true&amp;border_width=0&amp;bg_color=f5f5f5&amp;fg_color=1e1e1e&amp;link_color=d95f0e&amp;border_color=d6d6d6" width="550" height="165" loading="lazy"><a href="https://piskafir.itch.io/feelend-vr">Feelend VR by PisKafir</a></iframe>
+## **Featured Games**  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ebWOD4bZHu0?si=c-exqeHaMRFP84kl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
+### **Feelend VR**  
+[![Feelend VR](https://img.itch.zone/aW1nLzE2ODg0MTU2LmpwZw==/315x250%23c/wvUl2v.jpg)](https://piskafir.itch.io/feelend-vr)  
+*A VR experience exploring emotional landscapes.*  
+👉 [Play on Itch.io](https://piskafir.itch.io/feelend-vr)  
 
-<iframe frameborder="0" src="https://itch.io/embed/1588217?linkback=true&amp;border_width=0&amp;bg_color=f5f5f5&amp;fg_color=1e1e1e&amp;link_color=d95f0e&amp;border_color=d6d6d6" width="550" height="165" loading="lazy"><a href="https://selamisafabalik.itch.io/two-people-simulator">Two People Simulator by Selami Safa Balik, saro.hibo, karabacak</a></iframe>
+---
 
-<iframe frameborder="0" src="https://itch.io/embed/755389?linkback=true&amp;border_width=0&amp;bg_color=f5f5f5&amp;fg_color=1e1e1e&amp;link_color=d95f0e&amp;border_color=d6d6d6" width="550" height="165" loading="lazy"><a href="https://piskafir.itch.io/anger-and-agony">anger and agony by PisKafir</a></iframe>
+### **Two People Simulator**  
+[![Two People Simulator](https://img.itch.zone/aW1nLzkzMzE5MjkucG5n/315x250%23c/TSLhjw.png)](https://selamisafabalik.itch.io/two-people-simulator)  
+*A social interaction experiment.*  
+👉 [Play on Itch.io](https://selamisafabalik.itch.io/two-people-simulator)  
 
-<iframe frameborder="0" src="https://itch.io/embed/3332302?linkback=true&amp;border_width=0&amp;bg_color=f5f5f5&amp;fg_color=1e1e1e&amp;link_color=d95f0e&amp;border_color=d6d6d6" width="550" height="165" loading="lazy"><a href="https://selamisafabalik.itch.io/play-on-midi">Play On MIDI by Selami Safa Balik</a></iframe>
+---
 
-<iframe frameborder="0" src="https://itch.io/embed/765038?linkback=true&amp;border_width=0&amp;bg_color=f5f5f5&amp;fg_color=1e1e1e&amp;link_color=d95f0e&amp;border_color=d6d6d6" width="550" height="165" loading="lazy"><a href="https://selamisafabalik.itch.io/cube-carrier">Cube Carrier by Selami Safa Balik, karabacak, saro.hibo</a></iframe>
+### **Anger and Agony**  
+[![Anger and Agony](https://img.itch.zone/aW1nLzQyMjU0NjEucG5n/315x250%23c/ani8na.png)](https://piskafir.itch.io/anger-and-agony)  
+*An expressive, raw exploration of emotion.*  
+👉 [Play on Itch.io](https://piskafir.itch.io/anger-and-agony)  
 
-<iframe frameborder="0" src="https://itch.io/embed/1168131?linkback=true&amp;border_width=0&amp;bg_color=f5f5f5&amp;fg_color=1e1e1e&amp;link_color=d95f0e&amp;border_color=d6d6d6" width="550" height="165" loading="lazy"><a href="https://selamisafabalik.itch.io/oyunistanbul-test">OyunIstanbul_Test by Selami Safa Balik</a></iframe>
+---
 
-<iframe frameborder="0" src="https://itch.io/embed/1131597?linkback=true&amp;border_width=0&amp;bg_color=f5f5f5&amp;fg_color=1e1e1e&amp;link_color=d95f0e&amp;border_color=d6d6d6" width="550" height="165" loading="lazy"><a href="https://piskafir.itch.io/chester-bennington-memorial-2021">Chester Bennington Memorial - 2021 by PisKafir</a></iframe>
+### **Play On MIDI**  
+[![Play On MIDI](https://img.itch.zone/aW1nLzE5OTAzNTQ0LmpwZw==/315x250%23c/dPzk17.jpg)](https://selamisafabalik.itch.io/play-on-midi)  
+*Experimental music interaction with MIDI support.*  
+👉 [Play on Itch.io](https://selamisafabalik.itch.io/play-on-midi)  
 
-<iframe frameborder="0" src="https://itch.io/embed/392684?linkback=true&amp;border_width=0&amp;bg_color=f5f5f5&amp;fg_color=1e1e1e&amp;link_color=d95f0e&amp;border_color=d6d6d6" width="550" height="165" loading="lazy"><a href="https://piskafir.itch.io/how-i-lost-my-virginity">How I lost my virginity? by PisKafir</a></iframe>
+---
+
+### **Cube Carrier**  
+[![Cube Carrier](https://img.itch.zone/aW1nLzQzMTkxOTcucG5n/315x250%23c/ACsdkT.png)](https://selamisafabalik.itch.io/cube-carrier)  
+*A puzzle-platformer with cube transportation mechanics.*  
+👉 [Play on Itch.io](https://selamisafabalik.itch.io/cube-carrier)  
+
+---
+
+### **OyunIstanbul Test**  
+[![OyunIstanbul Test](https://img.itch.zone/aW1nLzY4Mzc1MTgucG5n/315x250%23c/cuCX19.png)](https://selamisafabalik.itch.io/oyunistanbul-test)  
+*An experimental urban-based game test.*  
+👉 [Play on Itch.io](https://selamisafabalik.itch.io/oyunistanbul-test)  
+
+---
+
+### **Chester Bennington Memorial - 2021**  
+[![Chester Bennington Memorial - 2021](https://img.itch.zone/aW1nLzY1NTU5NjQucG5n/315x250%23c/RbqN%2Bo.png)](https://piskafir.itch.io/chester-bennington-memorial-2021)  
+*A tribute experience for the legendary musician.*  
+👉 [Play on Itch.io](https://piskafir.itch.io/chester-bennington-memorial-2021)  
+
+---
+
+### **How I Lost My Virginity?**  
+[![How I Lost My Virginity?](https://img.itch.zone/aW1nLzIxMzQxMDQucG5n/315x250%23c/TiN8Ge.png)](https://piskafir.itch.io/how-i-lost-my-virginity)  
+*A humorous and satirical take on personal experiences.*  
+👉 [Play on Itch.io](https://piskafir.itch.io/how-i-lost-my-virginity)  
+
+---
+
+## **Videos**  
+
+### **Gameplay Showcase**  
+To avoid slowing down the page with a YouTube iFrame, here's a **clickable thumbnail**:  
+
+<a href="https://www.youtube.com/watch?v=ebWOD4bZHu0" target="_blank">
+  <img src="https://img.youtube.com/vi/ebWOD4bZHu0/hqdefault.jpg" alt="Gameplay Showcase">
+</a>
