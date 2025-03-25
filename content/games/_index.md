@@ -4,7 +4,7 @@ description: "Games by Selami Safa Balik."
 ---
 ## Introduction
 
-I have developed/prototyped a lot of games and categorized them as on two different itch.io pages as [personal](https://piskafir.itch.io/) and [professional](https://selamisafabalik.itch.io/). I will showcase my favorites after this important table:
+I have developed/prototyped a lot of games and categorized them on two different itch.io pages as [personal](https://piskafir.itch.io/) and [professional](https://selamisafabalik.itch.io/). I will showcase my favorites after this important table:
 ## A Beautiful Table of the Differences Between Them
 |[Professional projects](https://selamisafabalik.itch.io/)|[Personal projects](https://piskafir.itch.io/)|
 |--|--|
@@ -22,7 +22,7 @@ I have developed/prototyped a lot of games and categorized them as on two differ
         <img src="https://img.itch.zone/aW1nLzE2ODg0MTU2LmpwZw==/315x250%23c/wvUl2v.jpg" alt="Feelend VR"><br>
         <strong>Feelend VR</strong>
       </a>
-      <br>*A VR experience exploring emotional landscapes.*  
+      <br>A VR experience merging music videos with gaming.  
       <br>👉 <a href="https://piskafir.itch.io/feelend-vr">Play on Itch.io</a>
     </td>
     <td align="center">
@@ -30,7 +30,7 @@ I have developed/prototyped a lot of games and categorized them as on two differ
         <img src="https://img.itch.zone/aW1nLzkzMzE5MjkucG5n/315x250%23c/TSLhjw.png" alt="Two People Simulator"><br>
         <strong>Two People Simulator</strong>
       </a>
-      <br>*A social interaction experiment.*  
+      <br>One Player, two controller?!  
       <br>👉 <a href="https://selamisafabalik.itch.io/two-people-simulator">Play on Itch.io</a>
     </td>
   </tr>
@@ -40,7 +40,7 @@ I have developed/prototyped a lot of games and categorized them as on two differ
         <img src="https://img.itch.zone/aW1nLzQyMjU0NjEucG5n/315x250%23c/ani8na.png" alt="Anger and Agony"><br>
         <strong>Anger and Agony</strong>
       </a>
-      <br>*An expressive, raw exploration of emotion.*  
+      <br>One of my "Birthday" games  
       <br>👉 <a href="https://piskafir.itch.io/anger-and-agony">Play on Itch.io</a>
     </td>
     <td align="center">
@@ -48,7 +48,7 @@ I have developed/prototyped a lot of games and categorized them as on two differ
         <img src="https://img.itch.zone/aW1nLzE5OTAzNTQ0LmpwZw==/315x250%23c/dPzk17.jpg" alt="Play On MIDI"><br>
         <strong>Play On MIDI</strong>
       </a>
-      <br>*Experimental music interaction with MIDI support.*  
+      <br>MIDI = monitor and the controller merged!  
       <br>👉 <a href="https://selamisafabalik.itch.io/play-on-midi">Play on Itch.io</a>
     </td>
   </tr>
@@ -58,7 +58,7 @@ I have developed/prototyped a lot of games and categorized them as on two differ
         <img src="https://img.itch.zone/aW1nLzQzMTkxOTcucG5n/315x250%23c/ACsdkT.png" alt="Cube Carrier"><br>
         <strong>Cube Carrier</strong>
       </a>
-      <br>*A puzzle-platformer with cube transportation mechanics.*  
+      <br>Original game that started those hypercasuals lol  
       <br>👉 <a href="https://selamisafabalik.itch.io/cube-carrier">Play on Itch.io</a>
     </td>
     <td align="center">
@@ -66,7 +66,7 @@ I have developed/prototyped a lot of games and categorized them as on two differ
         <img src="https://img.itch.zone/aW1nLzY4Mzc1MTgucG5n/315x250%23c/cuCX19.png" alt="OyunIstanbul Test"><br>
         <strong>OyunIstanbul Test</strong>
       </a>
-      <br>*An experimental urban-based game test.*  
+      <br> World's first gamified city experiment with the government
       <br>👉 <a href="https://selamisafabalik.itch.io/oyunistanbul-test">Play on Itch.io</a>
     </td>
   </tr>
@@ -84,7 +84,7 @@ I have developed/prototyped a lot of games and categorized them as on two differ
         <img src="https://img.itch.zone/aW1nLzIxMzQxMDQucG5n/315x250%23c/TiN8Ge.png" alt="How I Lost My Virginity?"><br>
         <strong>How I Lost My Virginity?</strong>
       </a>
-      <br>*A humorous and satirical take on personal experiences.*  
+      <br>A humorous and satirical take on... nothing  
       <br>👉 <a href="https://piskafir.itch.io/how-i-lost-my-virginity">Play on Itch.io</a>
     </td>
   </tr>
