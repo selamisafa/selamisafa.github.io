@@ -22,7 +22,7 @@ I have developed/prototyped a lot of games and categorized them on two different
         <img src="https://img.itch.zone/aW1nLzE2ODg0MTU2LmpwZw==/315x250%23c/wvUl2v.jpg" alt="Feelend VR"><br>
         <strong>Feelend VR</strong>
       </a>
-      <br>A VR experience merging music videos with gaming.  
+      <br>A VR experience merging music videos with gaming  
       <br>👉 <a href="https://piskafir.itch.io/feelend-vr">Play on Itch.io</a>
     </td>
     <td align="center">
@@ -76,7 +76,7 @@ I have developed/prototyped a lot of games and categorized them on two different
         <img src="https://img.itch.zone/aW1nLzY1NTU5NjQucG5n/315x250%23c/RbqN%2Bo.png" alt="Chester Bennington Memorial - 2021"><br>
         <strong>Chester Bennington Memorial - 2021</strong>
       </a>
-      <br>*A tribute experience for the legendary musician.*  
+      <br>A tribute experience for the legendary musician  
       <br>👉 <a href="https://piskafir.itch.io/chester-bennington-memorial-2021">Play on Itch.io</a>
     </td>
     <td align="center">
