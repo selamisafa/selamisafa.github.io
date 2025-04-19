@@ -4,6 +4,12 @@ description: "Work Experience of Selami Safa Balik."
 ---
 ## WORK EXPERIENCE
 
+### **Game Designer & Developer**
+**[Spectrum Games](https://www.instagram.com/spectrumgamess)**  
+📍 **February 2025 – Present**
+-   Designing and developing **narrative and mechanics-driven games** in a small, collaborative studio.
+-   Prototyping and implementing **core gameplay systems** to enhance player interaction and experience.
+
 ### **IT Manager**  
 **[88 Restaurant](https://www.88restaurantny.com/) and [Amante Pizza](https://www.amantepizzany.com/)**  
 📍 **September 2024 – February 2025**  
