@@ -4,7 +4,7 @@ description: "Games by Selami Safa Balik."
 ---
 ## Introduction
 
-I have developed/prototyped a lot of games and categorized them on two different itch.io pages as [personal](https://piskafir.itch.io/) and [professional](https://selamisafabalik.itch.io/). I will showcase my favorites after this important table:
+I have developed/prototyped a lot of games and categorized them on two different itch.io pages as [personal](https://piskafir.itch.io/) and [professional](https://selamisafabalik.itch.io/) projects. I will showcase my favorites after this important table:
 ## A Beautiful Table of the Differences Between Them
 |[Professional projects](https://selamisafabalik.itch.io/)|[Personal projects](https://piskafir.itch.io/)|
 |--|--|
