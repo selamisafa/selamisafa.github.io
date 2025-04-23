@@ -57,14 +57,14 @@ description: "Work Experience of Selami Safa Balik."
 - Hosted and mentored participants to prepare them for the **Global Game Jam**.  
 
 ### **Guest Instructor, Game Design Workshop**  
-[Yeditepe University VCD474](https://iletisimfakultesi.yeditepe.edu.tr/en/visual-communication-and-design-department/3877)  
+[Yeditepe University VCD474](https://iletisimfakultesi.yeditepe.edu.tr/en/visual-communication-and-design-department)  
 📍 **April 2021**  
 - Taught **Twine macros** and interactive storytelling.  
 - Developed hands-on **game mechanics examples** for students.  
 - Provided training in **no-code game engines** (e.g., **Bitsy, Flickgame**).  
 
 ### **Guest Instructor, Game Design Workshop**  
-[Yeditepe University VCD474](https://iletisimfakultesi.yeditepe.edu.tr/en/visual-communication-and-design-department/3877)  
+[Yeditepe University VCD474](https://iletisimfakultesi.yeditepe.edu.tr/en/visual-communication-and-design-department)  
 📍 **March 2021**  
 - Taught an **English Twine lesson** in game design.  
 - Introduced students to **basic programming concepts**.  
