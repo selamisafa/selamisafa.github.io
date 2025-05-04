@@ -13,7 +13,7 @@ menu:
         - name: Games
           url: games/
           weight: 1 
-        - name: Work
+        - name: Work Experiences
           url: work/
           weight: 2
 
@@ -52,7 +52,7 @@ params:
             - name: Games
               url: games/
               weight: 1 
-            - name: Work
+            - name: Work Experiences
               url: work/
               weight: 2
 
