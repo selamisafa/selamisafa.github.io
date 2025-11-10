@@ -5,7 +5,7 @@ description: "Work Experience of Selami Safa Balik."
 ## WORK EXPERIENCE
 
 ### **Game Designer & Developer**
-**[Spectrum Games](https://www.instagram.com/spectrumgamess)**  
+**[Spectrum Games](https://www.linkedin.com/company/spectrumgames/) on [World 23](https://store.steampowered.com/app/3734490/World_23/)**  
 📍 **February 2025 – Present**
 -   Designing and developing **narrative and mechanics-driven games** in a small, collaborative studio.
 -   Prototyping and implementing **core gameplay systems** to enhance player interaction and experience.

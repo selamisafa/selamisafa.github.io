@@ -17,9 +17,19 @@ I have developed/prototyped a lot of games and categorized them on two different
 
 <table>
   <tr>
+    <td colspan="2" align="center">
+      <a href="https://store.steampowered.com/app/3734490/World_23/">
+        <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3734490/18553e806c0c65ae2a5f8cada38d57594eacaeb1/header.jpg?t=1760596866" alt="World 23">
+        <strong>World 23</strong>
+      </a>
+      <br>A fast-paced top-down hack-and-slash RPG  
+      <br>👉 <a href="https://store.steampowered.com/app/3734490/World_23/">Play on Steam</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://piskafir.itch.io/feelend-vr">
-        <img src="https://img.itch.zone/aW1nLzE2ODg0MTU2LmpwZw==/315x250%23c/wvUl2v.jpg" alt="Feelend VR"><br>
+        <img src="https://img.itch.zone/aW1nLzE2ODg0MTU2LmpwZw==/315x250%23c/wvUl2v.jpg" alt="Feelend VR">
         <strong>Feelend VR</strong>
       </a>
       <br>A VR experience merging music videos with gaming  
@@ -27,7 +37,7 @@ I have developed/prototyped a lot of games and categorized them on two different
     </td>
     <td align="center">
       <a href="https://selamisafabalik.itch.io/two-people-simulator">
-        <img src="https://img.itch.zone/aW1nLzkzMzE5MjkucG5n/315x250%23c/TSLhjw.png" alt="Two People Simulator"><br>
+        <img src="https://img.itch.zone/aW1nLzkzMzE5MjkucG5n/315x250%23c/TSLhjw.png" alt="Two People Simulator">
         <strong>Two People Simulator</strong>
       </a>
       <br>One Player, two controller?!  
@@ -37,7 +47,7 @@ I have developed/prototyped a lot of games and categorized them on two different
   <tr>
     <td align="center">
       <a href="https://piskafir.itch.io/anger-and-agony">
-        <img src="https://img.itch.zone/aW1nLzQyMjU0NjEucG5n/315x250%23c/ani8na.png" alt="Anger and Agony"><br>
+        <img src="https://img.itch.zone/aW1nLzQyMjU0NjEucG5n/315x250%23c/ani8na.png" alt="Anger and Agony">
         <strong>Anger and Agony</strong>
       </a>
       <br>One of my "Birthday" games  
@@ -45,7 +55,7 @@ I have developed/prototyped a lot of games and categorized them on two different
     </td>
     <td align="center">
       <a href="https://selamisafabalik.itch.io/play-on-midi">
-        <img src="https://img.itch.zone/aW1nLzE5OTAzNTQ0LmpwZw==/315x250%23c/dPzk17.jpg" alt="Play On MIDI"><br>
+        <img src="https://img.itch.zone/aW1nLzE5OTAzNTQ0LmpwZw==/315x250%23c/dPzk17.jpg" alt="Play On MIDI">
         <strong>Play On MIDI</strong>
       </a>
       <br>MIDI = monitor and the controller merged!  
@@ -55,7 +65,7 @@ I have developed/prototyped a lot of games and categorized them on two different
   <tr>
     <td align="center">
       <a href="https://selamisafabalik.itch.io/cube-carrier">
-        <img src="https://img.itch.zone/aW1nLzQzMTkxOTcucG5n/315x250%23c/ACsdkT.png" alt="Cube Carrier"><br>
+        <img src="https://img.itch.zone/aW1nLzQzMTkxOTcucG5n/315x250%23c/ACsdkT.png" alt="Cube Carrier">
         <strong>Cube Carrier</strong>
       </a>
       <br>Original game that started those hypercasuals lol  
@@ -63,7 +73,7 @@ I have developed/prototyped a lot of games and categorized them on two different
     </td>
     <td align="center">
       <a href="https://selamisafabalik.itch.io/oyunistanbul-test">
-        <img src="https://img.itch.zone/aW1nLzY4Mzc1MTgucG5n/315x250%23c/cuCX19.png" alt="OyunIstanbul Test"><br>
+        <img src="https://img.itch.zone/aW1nLzY4Mzc1MTgucG5n/315x250%23c/cuCX19.png" alt="OyunIstanbul Test">
         <strong>OyunIstanbul Test</strong>
       </a>
       <br> World's first gamified city experiment with the government
@@ -73,7 +83,7 @@ I have developed/prototyped a lot of games and categorized them on two different
   <tr>
     <td align="center">
       <a href="https://piskafir.itch.io/chester-bennington-memorial-2021">
-        <img src="https://img.itch.zone/aW1nLzY1NTU5NjQucG5n/315x250%23c/RbqN%2Bo.png" alt="Chester Bennington Memorial - 2021"><br>
+        <img src="https://img.itch.zone/aW1nLzY1NTU5NjQucG5n/315x250%23c/RbqN%2Bo.png" alt="Chester Bennington Memorial - 2021">
         <strong>Chester Bennington Memorial - 2021</strong>
       </a>
       <br>A tribute experience for the legendary musician  
@@ -81,7 +91,7 @@ I have developed/prototyped a lot of games and categorized them on two different
     </td>
     <td align="center">
       <a href="https://piskafir.itch.io/how-i-lost-my-virginity">
-        <img src="https://img.itch.zone/aW1nLzIxMzQxMDQucG5n/315x250%23c/TiN8Ge.png" alt="How I Lost My Virginity?"><br>
+        <img src="https://img.itch.zone/aW1nLzIxMzQxMDQucG5n/315x250%23c/TiN8Ge.png" alt="How I Lost My Virginity?">
         <strong>How I Lost My Virginity?</strong>
       </a>
       <br>A humorous and satirical take on... nothing  
@@ -89,8 +99,6 @@ I have developed/prototyped a lot of games and categorized them on two different
     </td>
   </tr>
 </table>
-
----
 
 ## **Videos**  
 
